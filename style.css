@@ -1,4 +1,4 @@
-        * {
+ï»¿        * {
             box-sizing: border-box;
         }
 
@@ -19,7 +19,7 @@
             font-size: clamp(13px, 3vw, 18px);
         }
 
-        /* “ü—ÍŒ‹‰Ê */
+        /* å…¥åŠ›çµæœ */
         #result {
             display: flex;
             justify-content: center;
@@ -46,7 +46,7 @@
             border-radius: 12px;
         }
 
-        /* A X C D ƒ{ƒ^ƒ“”z’u */
+        /* A X C D ãƒœã‚¿ãƒ³é…ç½® */
         .button-area {
             display: grid;
             grid-template-columns: repeat(4, 1fr);
@@ -58,7 +58,7 @@
             margin: 4vw auto;
         }
 
-        /* ŠÛŒ^ƒ{ƒ^ƒ“‹¤’Ê */
+        /* ä¸¸å‹ãƒœã‚¿ãƒ³å…±é€š */
         .key-button {
             width: 100%;
             aspect-ratio: 1 / 1;
@@ -79,7 +79,7 @@
             filter: brightness(1.3);
         }
 
-	/* AFƒOƒŠ[ƒ“ */
+	/* Aï¼šã‚°ãƒªãƒ¼ãƒ³ */
 	#btnA {
 	    background: radial-gradient(
 	        circle,
@@ -89,7 +89,7 @@
 	    );
 	}
 
-	/* XFƒ^[ƒRƒCƒY */
+	/* Xï¼šã‚¿ãƒ¼ã‚³ã‚¤ã‚º */
 	#btnX {
 	    background: radial-gradient(
 	        circle,
@@ -99,7 +99,7 @@
 	    );
 	}
 
-	/* CFƒCƒGƒ[ */
+	/* Cï¼šã‚¤ã‚¨ãƒ­ãƒ¼ */
 	#btnC {
 	    background: radial-gradient(
 	        circle,
@@ -109,7 +109,7 @@
 	    );
 	}
 
-	/* DFƒŒƒbƒh */
+	/* Dï¼šãƒ¬ãƒƒãƒ‰ */
 	#btnD {
 	    background: radial-gradient(
 	        circle,
@@ -118,7 +118,7 @@
 	        rgba(225,49,62,0) 100%
 	    );
 	}
-        /* ‘€ìƒ{ƒ^ƒ“”z’u */
+        /* æ“ä½œãƒœã‚¿ãƒ³é…ç½® */
         .control-area {
             display: flex;
             justify-content: center;
@@ -130,7 +130,7 @@
             margin: 20px auto;
         }
 
-        /* æ‚èÁ‚µEƒNƒŠƒA‹¤’Ê */
+        /* å–ã‚Šæ¶ˆã—ãƒ»ã‚¯ãƒªã‚¢å…±é€š */
         #undo, #clear {
             flex: 1;
             min-width: 0;
@@ -145,12 +145,12 @@
             cursor: pointer;
         }
 
-        /* æ‚èÁ‚µƒ{ƒ^ƒ“ */
+        /* å–ã‚Šæ¶ˆã—ãƒœã‚¿ãƒ³ */
         #undo {
             background-color: #2980b9;
         }
 
-        /* ƒNƒŠƒAƒ{ƒ^ƒ“ */
+        /* ã‚¯ãƒªã‚¢ãƒœã‚¿ãƒ³ */
         #clear {
             background-color: #666;
         }
@@ -160,13 +160,13 @@
             transform: scale(0.97);
         }
 
-        /* “ü—Íó‹µ */
+        /* å…¥åŠ›çŠ¶æ³ */
         #message {
             color: #aaa;
             font-size: clamp(14px, 3.5vw, 20px);
         }
 
-        /* ‰¡•‚ª‹·‚¢ƒXƒ}ƒz */
+        /* æ¨ªå¹…ãŒç‹­ã„ã‚¹ãƒãƒ› */
         @media (max-width: 360px) {
             .button-area {
                 gap: 2vw;
