@@ -47,9 +47,27 @@
         <button id="clear">クリア</button>
     </div>
 
-<!-- admax -->
-<script src="https://adm.shinobi.jp/s/1359e1420427eb7fd50213d6b2910369"></script>
-<!-- admax -->
+
+<script>
+(function() {
+    // スマホかどうかを判定
+    const isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+
+    // 広告スクリプトを生成
+    const adScript = document.createElement("script");
+
+    if (isMobile) {
+        // スマホ用広告
+        adScript.src = "https://adm.shinobi.jp/s/b07538b43e90928de2a70f4a87ddc5da";
+    } else {
+        // PC用広告
+        adScript.src = "https://adm.shinobi.jp/s/1359e1420427eb7fd50213d6b2910369";
+    }
+
+    // 広告を表示
+    document.body.appendChild(adScript);
+})();
+</script>
 
 </body>
 </html>
