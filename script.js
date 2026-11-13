@@ -41,25 +41,35 @@
                 updateDisplay();
             });
 
-            // 表示更新処理
-            function updateDisplay() {
+	// 表示更新処理
+	function updateDisplay() {
 
-                // 入力結果を表示
-                $(".result-item").each(function (index) {
+	    // 入力結果と背景色を更新
+	    $(".result-item").each(function (index) {
 
-                    $(this).text(inputList[index] || "");
+	        let value = inputList[index] || "";
 
-                });
+	        // 文字を表示
+	        $(this).text(value);
 
-                // 入力数を表示
-                $("#message").text(inputList.length + " / 6");
+	        // すべての色クラスをリセット
+	        $(this).removeClass(
+	            "color-A color-X color-C color-D"
+	        );
 
-                // 6個入力したら完了表示
-                if (inputList.length >= 6) {
+	        // 入力された文字に対応する色を設定
+	        if (value !== "") {
+	            $(this).addClass("color-" + value);
+	        }
 
-                    $("#message").text("入力完了！");
+	    });
 
-                }
-            }
+	    // 入力数を表示
+	    $("#message").text(inputList.length + " / 6");
 
+	    // 6個入力したら完了表示
+	    if (inputList.length >= 6) {
+	        $("#message").text("入力完了！");
+	    }
+	}
         });

@@ -180,3 +180,24 @@
                 gap: 1vw;
             }
         }
+
+	/* 入力結果の色 */
+	.result-item.color-A {
+	    background-color: #7ED514;
+	    border-color: #7ED514;
+	}
+
+	.result-item.color-X {
+	    background-color: #32C2B8;
+	    border-color: #32C2B8;
+	}
+
+	.result-item.color-C {
+	    background-color: #E2D316;
+	    border-color: #E2D316;
+	}
+
+	.result-item.color-D {
+	    background-color: #E1313E;
+	    border-color: #E1313E;
+}
