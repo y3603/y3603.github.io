@@ -8,8 +8,12 @@
             background-color: #222;
             color: white;
             margin: 0;
-            padding: 5vw;
+            padding: 0;
         }
+	
+	#box01{
+            padding: 5vw;
+	}
 
         h1 {
             font-size: clamp(20px, 5vw, 32px);
