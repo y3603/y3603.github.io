@@ -200,4 +200,27 @@
 	.result-item.color-D {
 	    background-color: #E1313E;
 	    border-color: #E1313E;
-}
+	}
+
+	.menu_i{
+		list-style-type: none;
+	}
+	.menu_i li{
+		margin-bottom:5px;
+	}
+
+	.menu_i li a{
+		display: inline-block;
+		padding: 0.3em 1em;
+		text-decoration: none;
+		color: #67c5ff;
+		border: solid 2px #67c5ff;
+		border-radius: 3px;
+		transition: .4s;
+	}
+
+	.menu_i li a:hover,
+	.menu_i li a:focus-visible {
+		background: #67c5ff;
+		color: white;
+	}
