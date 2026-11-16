@@ -1,0 +1,431 @@
+{
+  "title": "ARK: Survival Ascended - エニグマ用生物",
+  "updated": "2026-11-16",
+  "creatures": [
+    {
+      "id": "creature-001",
+      "name": "Acrocanthosaurus",
+      "name_ja": "アクロカントサウルス"
+    },
+    {
+      "id": "creature-002",
+      "name": "Allosaurus",
+      "name_ja": "アロサウルス"
+    },
+    {
+      "id": "creature-005",
+      "name": "Ankylosaurus",
+      "name_ja": "アンキロサウルス"
+    },
+    {
+      "id": "creature-006",
+      "name": "Araneo",
+      "name_ja": "アラネオ"
+    },
+    {
+      "id": "creature-007",
+      "name": "Arthropluera",
+      "name_ja": "アースロプレウラ"
+    },
+    {
+      "id": "creature-008",
+      "name": "Basilisk",
+      "name_ja": "バジリスク"
+    },
+    {
+      "id": "creature-009",
+      "name": "Beelzebufo",
+      "name_ja": "ベールゼブフォ"
+    },
+    {
+      "id": "creature-010",
+      "name": "Boaratos",
+      "name_ja": "ボアラトス"
+    },
+    {
+      "id": "creature-011",
+      "name": "Brontosaurus",
+      "name_ja": "ブロントサウルス"
+    },
+    {
+      "id": "creature-012",
+      "name": "Burrowbuck",
+      "name_ja": "ブローバック"
+    },
+    {
+      "id": "creature-013",
+      "name": "Carbonemys",
+      "name_ja": "カルボネミス"
+    },
+    {
+      "id": "creature-014",
+      "name": "Carcharodontosaurus",
+      "name_ja": "カルカロドントサウルス"
+    },
+    {
+      "id": "creature-015",
+      "name": "Carnotaurus",
+      "name_ja": "カルノタウルス"
+    },
+    {
+      "id": "creature-016",
+      "name": "Castoroides",
+      "name_ja": "カストロイデス"
+    },
+    {
+      "id": "creature-017",
+      "name": "Ceratosaurus",
+      "name_ja": "ケラトサウルス"
+    },
+    {
+      "id": "creature-018",
+      "name": "Cerberax",
+      "name_ja": "ケルベラックス"
+    },
+    {
+      "id": "creature-019",
+      "name": "Chalicotherium",
+      "name_ja": "カリコテリウム"
+    },
+    {
+      "id": "creature-020",
+      "name": "Concavenator",
+      "name_ja": "コンカヴェナトル"
+    },
+    {
+      "id": "creature-021",
+      "name": "Cryolophosaurus",
+      "name_ja": "クライオロフォサウルス"
+    },
+    {
+      "id": "creature-022",
+      "name": "Daeodon",
+      "name_ja": "ダエオドン"
+    },
+    {
+      "id": "creature-023",
+      "name": "Deinonychus",
+      "name_ja": "デイノニクス"
+    },
+    {
+      "id": "creature-024",
+      "name": "Deinosuchus",
+      "name_ja": "デイノスクス"
+    },
+    {
+      "id": "creature-025",
+      "name": "Diplodocus",
+      "name_ja": "ディプロドクス"
+    },
+    {
+      "id": "creature-026",
+      "name": "Dire Bear",
+      "name_ja": "ショートフェイスベア"
+    },
+    {
+      "id": "creature-027",
+      "name": "Direwolf",
+      "name_ja": "ダイアウルフ"
+    },
+    {
+      "id": "creature-028",
+      "name": "Doedicurus",
+      "name_ja": "ドエディクルス"
+    },
+    {
+      "id": "creature-029",
+      "name": "Dreadnoughtus",
+      "name_ja": "ドレッドノータス"
+    },
+    {
+      "id": "creature-030",
+      "name": "Elderclaw",
+      "name_ja": "エルダークロー"
+    },
+    {
+      "id": "creature-031",
+      "name": "Enforcer",
+      "name_ja": "エンフォーサー"
+    },
+    {
+      "id": "creature-032",
+      "name": "Equus",
+      "name_ja": "エクウス"
+    },
+    {
+      "id": "creature-033",
+      "name": "Fasolasuchus",
+      "name_ja": "ファソラスクス"
+    },
+    {
+      "id": "creature-034",
+      "name": "Ferox",
+      "name_ja": "フェロクス"
+    },
+    {
+      "id": "creature-035",
+      "name": "Gacha",
+      "name_ja": "ガチャ"
+    },
+    {
+      "id": "creature-036",
+      "name": "Gallimimus",
+      "name_ja": "ガリミムス"
+    },
+    {
+      "id": "creature-037",
+      "name": "Bison",
+      "name_ja": "バイソン"
+    },
+    {
+      "id": "creature-038",
+      "name": "Giganotosaurus",
+      "name_ja": "ギガノトサウルス"
+    },
+    {
+      "id": "creature-039",
+      "name": "Gigantopithecus",
+      "name_ja": "ギガントピテクス"
+    },
+    {
+      "id": "creature-040",
+      "name": "Gigantoraptor",
+      "name_ja": "ギガントラプトル"
+    },
+    {
+      "id": "creature-041",
+      "name": "Hyaenodon",
+      "name_ja": "ヒエノドン"
+    },
+    {
+      "id": "creature-042",
+      "name": "Iguanodon",
+      "name_ja": "イグアノドン"
+    },
+    {
+      "id": "creature-043",
+      "name": "Kaprosuchus",
+      "name_ja": "カプロスクス"
+    },
+    {
+      "id": "creature-044",
+      "name": "Karkinos",
+      "name_ja": "カルキノス"
+    },
+    {
+      "id": "creature-045",
+      "name": "Kentrosaurus",
+      "name_ja": "ケントロサウルス"
+    },
+    {
+      "id": "creature-046",
+      "name": "Maeguana",
+      "name_ja": "メイグアナ"
+    },
+    {
+      "id": "creature-048",
+      "name": "Magmasaur",
+      "name_ja": "マグマサウルス"
+    },
+    {
+      "id": "creature-049",
+      "name": "Mammoth",
+      "name_ja": "マンモス"
+    },
+    {
+      "id": "creature-050",
+      "name": "Mantis",
+      "name_ja": "カマキリ"
+    },
+    {
+      "id": "creature-051",
+      "name": "Megalania",
+      "name_ja": "メガラニア"
+    },
+    {
+      "id": "creature-052",
+      "name": "Megaloceros",
+      "name_ja": "メガロケロス"
+    },
+    {
+      "id": "creature-053",
+      "name": "Megalosaurus",
+      "name_ja": "メガロサウルス"
+    },
+    {
+      "id": "creature-054",
+      "name": "Megaraptor",
+      "name_ja": "メガラプトル"
+    },
+    {
+      "id": "creature-055",
+      "name": "Megatherium",
+      "name_ja": "メガテリウム"
+    },
+    {
+      "id": "creature-056",
+      "name": "Morellatops",
+      "name_ja": "モレラトプス"
+    },
+    {
+      "id": "creature-057",
+      "name": "Moschops",
+      "name_ja": "モスコプス"
+    },
+    {
+      "id": "creature-058",
+      "name": "Oasisaur",
+      "name_ja": "オアシサウルス"
+    },
+    {
+      "id": "creature-059",
+      "name": "Ossidon",
+      "name_ja": "オシドン"
+    },
+    {
+      "id": "creature-060",
+      "name": "Ovis",
+      "name_ja": "ヒツジ"
+    },
+    {
+      "id": "creature-061",
+      "name": "Pachy",
+      "name_ja": "パキケファロサウルス"
+    },
+    {
+      "id": "creature-062",
+      "name": "Pachyrhinosaurus",
+      "name_ja": "パキリノサウルス"
+    },
+    {
+      "id": "creature-063",
+      "name": "Paraceratherium",
+      "name_ja": "パラケラテリウム"
+    },
+    {
+      "id": "creature-064",
+      "name": "Parasaur",
+      "name_ja": "パラサウロロフス"
+    },
+    {
+      "id": "creature-065",
+      "name": "Phiomia",
+      "name_ja": "フィオミア"
+    },
+    {
+      "id": "creature-066",
+      "name": "Procoptodon",
+      "name_ja": "プロコプトドン"
+    },
+    {
+      "id": "creature-067",
+      "name": "Pulmonoscorpius",
+      "name_ja": "プルモノスコルピウス"
+    },
+    {
+      "id": "creature-068",
+      "name": "Purlovia",
+      "name_ja": "プルロヴィア"
+    },
+    {
+      "id": "creature-069",
+      "name": "Pyromane",
+      "name_ja": "パイロメイン"
+    },
+    {
+      "id": "creature-070",
+      "name": "Raptor",
+      "name_ja": "ユタラプトル"
+    },
+    {
+      "id": "creature-071",
+      "name": "Ravager",
+      "name_ja": "ラベジャー"
+    },
+    {
+      "id": "creature-072",
+      "name": "Reaper",
+      "name_ja": "リーパー"
+    },
+    {
+      "id": "creature-073",
+      "name": "Rex",
+      "name_ja": "ティラノサウルス"
+    },
+    {
+      "id": "creature-074",
+      "name": "Rock Elemental",
+      "name_ja": "ロックエレメンタル"
+    },
+    {
+      "id": "creature-075",
+      "name": "Roll Rat",
+      "name_ja": "ロールラット"
+    },
+    {
+      "id": "creature-076",
+      "name": "Sabertooth",
+      "name_ja": "サーベルタイガー"
+    },
+    {
+      "id": "creature-077",
+      "name": "Sarco",
+      "name_ja": "サルコスクス"
+    },
+    {
+      "id": "creature-079",
+      "name": "Spinosaurus",
+      "name_ja": "スピノサウルス"
+    },
+    {
+      "id": "creature-080",
+      "name": "Stegosaurus",
+      "name_ja": "ステゴサウルス"
+    },
+    {
+      "id": "creature-081",
+      "name": "Terror Bird",
+      "name_ja": "テラーバード"
+    },
+    {
+      "id": "creature-082",
+      "name": "Therizinosaurus",
+      "name_ja": "テリジノサウルス"
+    },
+    {
+      "id": "creature-083",
+      "name": "Thorny Dragon",
+      "name_ja": "モロクトカゲ"
+    },
+    {
+      "id": "creature-084",
+      "name": "Thylacoleo",
+      "name_ja": "ティラコレオ"
+    },
+    {
+      "id": "creature-085",
+      "name": "Tidepup",
+      "name_ja": "タイドパップ"
+    },
+    {
+      "id": "creature-087",
+      "name": "Triceratops",
+      "name_ja": "トリケラトプス"
+    },
+    {
+      "id": "creature-089",
+      "name": "Unicorn",
+      "name_ja": "ユニコーン"
+    },
+    {
+      "id": "creature-090",
+      "name": "Velonasaur",
+      "name_ja": "ベロナサウルス"
+    },
+    {
+      "id": "creature-091",
+      "name": "Woolly Rhino",
+      "name_ja": "ケブカサイ"
+    }
+  ]
+}
