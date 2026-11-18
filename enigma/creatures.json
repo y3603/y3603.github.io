@@ -23,6 +23,11 @@
       "name_ja": "アンキロサウルス変種"
     },
     {
+      "id": "creature-0005",
+      "name": "Archelon",
+      "name_ja": "アーケロン"
+    },
+    {
       "id": "creature-006",
       "name": "Araneo",
       "name_ja": "アラネオ"
@@ -148,6 +153,11 @@
       "name_ja": "デイノスクス"
     },
     {
+      "id": "creature-0024",
+      "name": "Deinotherium",
+      "name_ja": "デイノテリウム"
+    },
+    {
       "id": "creature-025",
       "name": "Diplodocus",
       "name_ja": "ディプロドクス"
@@ -258,6 +268,11 @@
       "name_ja": "ギガントラプトル変種"
     },
     {
+      "id": "creature-0040",
+      "name": "Grand Tortugar",
+      "name_ja": "グランドトルトゥガー"
+    },
+    {
       "id": "creature-041",
       "name": "Hyaenodon",
       "name_ja": "ヒエノドン"
@@ -291,6 +306,11 @@
       "id": "creature-046",
       "name": "Maeguana",
       "name_ja": "メイグアナ"
+    },
+    {
+      "id": "creature-0046",
+      "name": "Malwyn",
+      "name_ja": "マルウィン"
     },
     {
       "id": "creature-049",
@@ -503,6 +523,11 @@
       "name_ja": "サルコスクス変種"
     },
     {
+      "id": "creature-0077",
+      "name": "Solwyn",
+      "name_ja": "ソルウィン"
+    },
+    {
       "id": "creature-079",
       "name": "Spinosaurus",
       "name_ja": "スピノサウルス"
@@ -594,23 +619,8 @@
     },
     {
       "id": "creature-092",
-      "name": "Deinotherium",
-      "name_ja": "デイノテリウム"
-    },
-    {
-      "id": "creature-093",
-      "name": "Malwyn",
-      "name_ja": "マルウィン"
-    },
-    {
-      "id": "creature-094",
-      "name": "Solwyn",
-      "name_ja": "ソルウィン"
-    },
-    {
-      "id": "creature-095",
-      "name": "Grand Tortugar",
-      "name_ja": "グランドトルトゥガー"
+      "name": "Yutyrannus",
+      "name_ja": "ユウティラヌス"
     }
   ]
 }
